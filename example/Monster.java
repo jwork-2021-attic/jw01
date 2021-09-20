@@ -1,4 +1,4 @@
-package W01.example;
+package example;
 
 public class Monster extends Creature {
 
